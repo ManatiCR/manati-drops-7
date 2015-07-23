@@ -31,7 +31,7 @@ projects[devel][version] = 1.5
 projects[devel][type] = "module"
 projects[devel][subdir] = "contrib/"
 
-projects[features][version] = 2.5
+projects[features][version] = 2.6
 projects[features][type] = "module"
 projects[features][subdir] = "contrib/"
 
@@ -67,7 +67,7 @@ projects[logintoboggan][version] = 1.5
 projects[logintoboggan][type] = "module"
 projects[logintoboggan][subdir] = "contrib/"
 
-projects[nodequeue][version] = 2.0-beta1
+projects[nodequeue][version] = 2.0
 projects[nodequeue][type] = "module"
 projects[nodequeue][subdir] = "contrib/"
 
@@ -95,11 +95,11 @@ projects[rules][version] = 2.9
 projects[rules][type] = "module"
 projects[rules][subdir] = "contrib/"
 
-projects[recaptcha][version] = 1.12
+projects[recaptcha][version] = 2.0
 projects[recaptcha][type] = "module"
 projects[recaptcha][subdir] = "contrib/"
 
-projects[jquery_update][version] = 3.0-alpha1
+projects[jquery_update][version] = 3.0-alpha2
 projects[jquery_update][type] = "module"
 projects[jquery_update][subdir] = "contrib/"
 
@@ -111,7 +111,7 @@ projects[views][version] = 3.11
 projects[views][type] = "module"
 projects[views][subdir] = "contrib/"
 
-projects[views_bulk_operations][version] = 3.2
+projects[views_bulk_operations][version] = 3.3
 projects[views_bulk_operations][type] = "module"
 projects[views_bulk_operations][subdir] = "contrib/"
 
@@ -125,7 +125,7 @@ projects[variable][subdir] = "contrib"
 
 ; Admin views
 projects[admin_views][subdir] = contrib
-projects[admin_views][version] = 1.4
+projects[admin_views][version] = 1.5
 
 ; EntityForm
 projects[entityform][subdir] = contrib
@@ -169,7 +169,7 @@ projects[video_filter][version] = 3.1
 
 ; Wysiwyg Fields
 projects[wysiwyg_fields][subdir] = contrib
-projects[wysiwyg_fields][version] = 1.x-dev
+projects[wysiwyg_fields][version] = 2.0-beta1
 
 ; Custom Features
 projects[manati_editortexto][download][type] = "git"
