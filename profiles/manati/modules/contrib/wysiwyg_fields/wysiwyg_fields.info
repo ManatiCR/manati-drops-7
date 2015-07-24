@@ -1,16 +1,17 @@
 name = Wysiwyg Fields
-description = Field support for the WYSIWYG module
+description = Drupal Fields as CKEditor plugins.
 package = User interface
+dependencies[] = ckeditor
 dependencies[] = field
-dependencies[] = filter
-dependencies[] = wysiwyg
+dependencies[] = formatted_field_tokens
+dependencies[] = icon
+dependencies[] = token_filter
+dependencies[] = token_replace_ajax
 core = 7.x
 
-files[] = includes/field_ui.inc
-
-; Information added by drupal.org packaging script on 2013-10-26
-version = "7.x-1.x-dev"
+; Information added by Drupal.org packaging script on 2015-06-17
+version = "7.x-2.0-beta1"
 core = "7.x"
 project = "wysiwyg_fields"
-datestamp = "1382797386"
+datestamp = "1434525783"
 
