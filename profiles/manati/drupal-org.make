@@ -169,7 +169,7 @@ projects[video_filter][version] = 3.1
 
 ; Wysiwyg Fields
 projects[wysiwyg_fields][subdir] = contrib
-projects[wysiwyg_fields][version] = 2.0-beta1
+projects[wysiwyg_fields][version] = 1.x-dev
 
 ; Custom Features
 projects[manati_editortexto][download][type] = "git"
