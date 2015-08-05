@@ -103,7 +103,7 @@ projects[jquery_update][version] = 3.0-alpha2
 projects[jquery_update][type] = "module"
 projects[jquery_update][subdir] = "contrib/"
 
-projects[wysiwyg][version] = 2.2
+projects[wysiwyg][version] = 2.x-dev
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][subdir] = "contrib/"
 
