@@ -103,7 +103,7 @@ projects[jquery_update][version] = 3.0-alpha2
 projects[jquery_update][type] = "module"
 projects[jquery_update][subdir] = "contrib/"
 
-projects[wysiwyg][version] = 2.2
+projects[wysiwyg][version] = 2.x-dev
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][subdir] = "contrib/"
 
@@ -169,7 +169,7 @@ projects[video_filter][version] = 3.1
 
 ; Wysiwyg Fields
 projects[wysiwyg_fields][subdir] = contrib
-projects[wysiwyg_fields][version] = 2.0-beta1
+projects[wysiwyg_fields][version] = 1.x-dev
 
 ; Custom Features
 projects[manati_editortexto][download][type] = "git"
@@ -181,4 +181,4 @@ projects[manati_editortexto][type] = "module"
 ; ---------
 ; CKEditor
 libraries[ckeditor][download][type] = file
-libraries[ckeditor][download][url] = http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6.1/ckeditor_3.6.6.1.zip
+libraries[ckeditor][download][url] = http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.5.2/ckeditor_4.5.2_basic.zip
