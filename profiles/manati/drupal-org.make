@@ -31,7 +31,7 @@ projects[devel][version] = 1.5
 projects[devel][type] = "module"
 projects[devel][subdir] = "contrib/"
 
-projects[features][version] = 2.5
+projects[features][version] = 2.6
 projects[features][type] = "module"
 projects[features][subdir] = "contrib/"
 
@@ -67,7 +67,7 @@ projects[logintoboggan][version] = 1.5
 projects[logintoboggan][type] = "module"
 projects[logintoboggan][subdir] = "contrib/"
 
-projects[nodequeue][version] = 2.0-beta1
+projects[nodequeue][version] = 2.0
 projects[nodequeue][type] = "module"
 projects[nodequeue][subdir] = "contrib/"
 
@@ -95,15 +95,15 @@ projects[rules][version] = 2.9
 projects[rules][type] = "module"
 projects[rules][subdir] = "contrib/"
 
-projects[recaptcha][version] = 1.12
+projects[recaptcha][version] = 2.0
 projects[recaptcha][type] = "module"
 projects[recaptcha][subdir] = "contrib/"
 
-projects[jquery_update][version] = 3.0-alpha1
+projects[jquery_update][version] = 3.0-alpha2
 projects[jquery_update][type] = "module"
 projects[jquery_update][subdir] = "contrib/"
 
-projects[wysiwyg][version] = 2.2
+projects[wysiwyg][version] = 2.x-dev
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][subdir] = "contrib/"
 
@@ -111,7 +111,7 @@ projects[views][version] = 3.11
 projects[views][type] = "module"
 projects[views][subdir] = "contrib/"
 
-projects[views_bulk_operations][version] = 3.2
+projects[views_bulk_operations][version] = 3.3
 projects[views_bulk_operations][type] = "module"
 projects[views_bulk_operations][subdir] = "contrib/"
 
@@ -125,7 +125,7 @@ projects[variable][subdir] = "contrib"
 
 ; Admin views
 projects[admin_views][subdir] = contrib
-projects[admin_views][version] = 1.4
+projects[admin_views][version] = 1.5
 
 ; EntityForm
 projects[entityform][subdir] = contrib
@@ -181,4 +181,4 @@ projects[manati_editortexto][type] = "module"
 ; ---------
 ; CKEditor
 libraries[ckeditor][download][type] = file
-libraries[ckeditor][download][url] = http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6.1/ckeditor_3.6.6.1.zip
+libraries[ckeditor][download][url] = http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.5.2/ckeditor_4.5.2_basic.zip
